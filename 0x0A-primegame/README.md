@@ -1,0 +1,1 @@
+This repository contains a series of coding challenges designed to simulate the types of problems a software developer might encounter during a technical interview. These challenges aim to test and improve your problem-solving skills, coding efficiency, and understanding of fundamental programming concepts.
